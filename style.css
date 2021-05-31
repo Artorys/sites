@@ -4,8 +4,8 @@ h1
     position: absolute;
     width: 100%;
     max-width: 768px;
-    top: -10px;
-    left: 375px;
+    top: 5px;
+    left: 440px;
     font-size: 100px;
     white-space: nowrap;
 
@@ -69,7 +69,7 @@ hr#linha2
     border: 5px solid;
     border-color:  rgb(255, 255, 255);
 }
-img#mulher
+img#gif
 {
     width: 400px;
     height: 300px;
@@ -77,21 +77,21 @@ img#mulher
     margin-left: -100px;
 }
 
-p#horas
+h2#relogio
 {
     position: absolute;
     font-size: 80px;
     color: aliceblue;
-    left: 450px;
-    top: 90px;
+    left: 505px;
+    top: 100px;
     
 }
-p#tempo
+h2#tempo
 {
     position: absolute;
     color: aliceblue;
     font-size: 100px;
-    top: 460px;
-    left: 500px;
+    top: 480px;
+    left: 520px;
 }
 
