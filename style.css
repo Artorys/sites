@@ -4,7 +4,7 @@ h1
     position: absolute;
     width: 100%;
     max-width: 768px;
-    top: 5px;
+    top: 0px;
     left: 440px;
     font-size: 100px;
     white-space: nowrap;
@@ -82,7 +82,7 @@ h2#relogio
     position: absolute;
     font-size: 80px;
     color: aliceblue;
-    left: 545px;
+    left: 520px;
     top: 100px;
     
 }
@@ -92,6 +92,6 @@ h2#tempo
     color: aliceblue;
     font-size: 100px;
     top: 480px;
-    left: 515px;
+    left: 505px;
 }
 
